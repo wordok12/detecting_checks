@@ -1,2 +1,3 @@
 # detecting_checks
-check detection PHP module 
+check detection PHP + JS module 
+
